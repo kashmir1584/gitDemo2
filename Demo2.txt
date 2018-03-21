@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7630-CC0F
+
+ Directory of C:\Users\HP\Documents\GITpractice
+
+03/21/2018  10:55 AM    <DIR>          .
+03/21/2018  10:55 AM    <DIR>          ..
+03/21/2018  10:30 AM               357 Demo1.txt
+03/21/2018  10:55 AM                 0 Demo2.txt
+               2 File(s)            357 bytes
+               2 Dir(s)  17,057,607,680 bytes free
